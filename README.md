@@ -1,4 +1,4 @@
 # 180305pol
-hidfsdfs
+깃허브 풀 푸시 테스트
 
-im fine thx n u
+github pull push test
